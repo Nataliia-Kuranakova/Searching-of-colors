@@ -1,0 +1,29 @@
+.color-card-text {
+  font-size: 2em;
+  color:  $main-color;
+  margin: 0;
+
+  &--year {
+    opacity: 0.5;
+  }
+
+  &--id{
+    font-size: 1.5em;
+  }
+}
+
+.color-modal-text {
+  font-family: $base-font-family;
+  font-size: 3em;
+  color:  $main-color;
+  margin: 0;
+  text-align: center;
+  text-transform: capitalize;
+
+  &--subtitles {
+    font-size: 2.5em;
+    text-transform: none;
+  }
+}
+
+
